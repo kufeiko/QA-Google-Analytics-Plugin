@@ -1,6 +1,7 @@
 This plugin will add the script for Google Analytics (GA) in the <head> part of
-your Question 2 Answer installation.
+your Question2Answer installation.
 
 The only configurable part is in the "Plugins" section on the Admin interface.
-To start using GA, just paste your UA id you get from Google. There's also 
-possibility to disable tracking of Super Administrator's activities on the site.
+To start using GA, just copy your tracking code from Google Analytics and paste it in the text box.
+There's also possibility to disable tracking of Super Administrator's activities on the site.
+

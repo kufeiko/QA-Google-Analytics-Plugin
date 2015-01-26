@@ -17,10 +17,11 @@
 
 /*
 	Plugin Name: Google Analytics
-	Plugin URI: 
+	Plugin URI: https://github.com/kufeiko/QA-Google-Analytics-Plugin
+	Plugin Update Check URI: https://raw.githubusercontent.com/kufeiko/QA-Google-Analytics-Plugin/master/qa-plugin.php
 	Plugin Description: Inserts Analytics code in the <head> and can skip for admin
-	Plugin Version: 1.0
-	Plugin Date: 2011-03-17
+	Plugin Version: 1.1
+	Plugin Date: 2015-01-27
 	Plugin Author: Ivan
 	Plugin Author URI: http://patuvame.net
 	Plugin License: GPLv2
